@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores básicos -->
+    <color name="black">#FF000000</color>
+    <color name="blue">#4077f0</color>
+    <color name="brown">#A52A2A</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="green">#00FF00</color>
+    <color name="grey">#c8c8c8</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="orange">#FFA500</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <!-- Colores Login -->
+    <color name="background_login">#121212</color>
+    <color name="primario_login">#00FFFF</color>
+    <color name="secundario_login">#FF00FF</color>
+    <color name="botones_login">#FFD700</color>
+    <color name="texto_primario_login">#FFFFFF</color>
+    <color name="texto_secundario_login">#B0B0B0</color>
+    <color name="btn_google">#db4a39</color>
+    <color name="btn_guest">#808080</color>
+    <!-- Colores leaderboard -->
+    <color name="primero">#C9A200</color>
+    <color name="segundo">#808080</color>
+    <color name="tercero">#8B4513</color>
+
+    <!-- Colores rangos -->
+    <color name="hierro">#5D5D5D</color>
+    <color name="bronce">#CD7F32</color>
+    <color name="plata">#C0C0C0</color>
+    <color name="oro">#FFD700</color>
+    <color name="platino">#00B8A9</color>
+    <color name="esmeralda">#50C878</color>
+    <color name="diamante">#00CFFF</color>
+    <color name="master">#AA00FF</color>
+    <color name="grandmaster">#D60000</color>
+    <color name="challenger">#E6C200 </color>
+
+    <!-- Colores partidas -->
+    <color name="victorias">#4CAF50</color>
+    <color name="derrotas">#F44336</color>
+</resources>

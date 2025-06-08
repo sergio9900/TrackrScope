@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name" translatable="false">TrackrScope</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="placeholder" translatable="false">Placeholder</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register_here">Register Here</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="submit">Submit</string>
+    <string name="login_google" translatable="false">Login Google</string>
+    <string name="Email" translatable="false">Email</string>
+    <string name="show_password">Show Password</string>
+    <string name="title_activity_register_screen" translatable="false">RegisterScreen</string>
+    <string name="title_activity_navigation_graph" translatable="false">NavigationGraph</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="recover_password">Recover password</string>
+    <string name="web_client_id" translatable="false">772171917750-8o7r13j0j21hjm74kap41hcmeccdve58.apps.googleusercontent.com</string>
+    <string name="login">Login</string>
+    <string name="login_guest">Guest</string>
+    <string name="profile_screen">Profile</string>
+    <string name="login_screen" translatable="false">LoginScreen</string>
+    <string name="news_screen">News</string>
+    <string name="leaderboard_screen">Leaderboard</string>
+    <string name="home_screen">Home</string>
+    <string name="favorites_screen" translatable="false">Favorites</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="logout">Logout</string>
+    <string name="anonymous_user">Anonymous User</string>
+    <string name="login_as">"You are logged in as: "</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_logout">Are you sure you want to log out?</string>
+    <string name="session_expired">Account banned</string>
+    <string name="delete_account">Delete account</string>
+    <string name="confirm_delete">Are you sure you want to delete your anonymous account?</string>
+    <string name="save">Save</string>
+    <string name="lol_screen" translatable="false">LoL</string>
+    <string name="tft_screen" translatable="false">TFT</string>
+    <string name="valorant_screen" translatable="false">Valorant</string>
+    <string name="game_screen">Game</string>
+    <string name="login_guest_error">You have already logged in as a guest today</string>
+    <string name="ally_tips">Ally Tips</string>
+    <string name="enemy_tips">Enemy Tips</string>
+    <string name="champions">Champions</string>
+    <string name="items">Items</string>
+    <string name="runes">Runes</string>
+    <string name="roles" translatable="false">Roles</string>
+    <string name="region">Region</string>
+    <string name="select_region">Select a region</string>
+    <string name="select_tier">Select a tier</string>
+    <string name="select_division">Select a division</string>
+    <string name="new_player">New Player</string>
+    <string name="inactive">Inactive</string>
+    <string name="theme">Themes</string>
+    <string name="select_theme">Select a theme</string>
+    <string name="lol" translatable="false">League of Legends theme</string>
+    <string name="valorant" translatable="false">Valorant theme</string>
+    <string name="tft" translatable="false">TFT theme</string>
+    <string name="default_theme" translatable="false">Default theme</string>
+    <string name="recent_matches">Recent matches</string>
+    <string name="champions_played">Masteries</string>
+    <string name="search_player">Search player</string>
+    <string name="loading_champions">Loading champions...</string>
+    <string name="search_player_start">Search a player to start</string>
+    <string name="lose">Lose</string>
+    <string name="win">Win</string>
+    <string name="mastery">Mastery</string>
+    <string name="points">points</string>
+    <string name="wins">Wins</string>
+    <string name="losses">Losses</string>
+    <string name="winrate">Winrate</string>
+    <string name="games">Games</string>
+    <string name="LP" translatable="false">LP</string>
+    <string name="KDA" translatable="false">KDA</string>
+    <string name="profile_error">Can\'t access to the profile</string>
+    <string name="profile">Profile</string>
+    <string name="favorites">Favorites</string>
+    <string name="blue_team">Blue team</string>
+    <string name="red_team">Red team</string>
+</resources>
