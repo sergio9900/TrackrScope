@@ -75,6 +75,10 @@ fun HomeScreen(
     val currentProfile = state.profile
     val docId = if (currentProfile != null) "${currentProfile.name}#${currentProfile.tag}" else ""
 
+    LaunchedEffect(Unit) {
+        SessionManager.checkSession(navController)
+    }
+
     LaunchedEffect(currentProfile) {
         if (currentProfile != null) {
             viewModel.comprobarFavoritosPerfil(currentProfile)
