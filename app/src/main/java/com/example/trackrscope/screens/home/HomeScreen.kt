@@ -44,6 +44,7 @@ import androidx.navigation.NavController
 import com.example.trackrscope.R
 import com.example.trackrscope.screens.home.components.HomeComponets
 import com.example.trackrscope.utils.LoadingIndicator
+import com.example.trackrscope.utils.SessionManager
 import com.google.firebase.auth.FirebaseAuth
 
 @OptIn(ExperimentalMaterialApi::class)

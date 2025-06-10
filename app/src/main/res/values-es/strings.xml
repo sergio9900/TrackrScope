@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="game_screen">Juego</string>
     <string name="login_guest_error">Ya has iniciado sesión como invitado hoy</string>
     <string name="anonymous_user">Usuario anonimo</string>
@@ -24,7 +24,7 @@
     <string name="select_division">Selecciona una división</string>
     <string name="champions_played">Maestrias</string>
     <string name="search_player">Buscar jugador</string>
-    <string name="loading_champions">Cargando campeones...</string>
+    <string name="loading_champions" tools:ignore="TypographyEllipsis">Cargando campeones...</string>
     <string name="search_player_start">Busca un jugador para empezar</string>
     <string name="confirm_delete">¿Estás seguro de que deseas eliminar tu cuenta anónima?</string>
     <string name="save">Guardar</string>

@@ -490,7 +490,7 @@ fun signInWithEmail(
         if (task.isSuccessful) {
             val user = firebaseAuth.currentUser
 
-            if (user!!.isEmailVerified) {
+            if (user != null && user.isEmailVerified) {
                 navController.navigate(Routes.HOME)
             } else {
                 coroutineScope.launch {

@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">TrackrScope</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="placeholder" translatable="false">Placeholder</string>
@@ -65,7 +65,7 @@
     <string name="recent_matches">Recent matches</string>
     <string name="champions_played">Masteries</string>
     <string name="search_player">Search player</string>
-    <string name="loading_champions">Loading champions...</string>
+    <string name="loading_champions" tools:ignore="TypographyEllipsis">Loading champions...</string>
     <string name="search_player_start">Search a player to start</string>
     <string name="lose">Lose</string>
     <string name="win">Win</string>
